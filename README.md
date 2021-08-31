@@ -1,2 +1,2 @@
 # BIOS512
-## This is another heading.
+## This repository is used to store and submit assignments for BIOS 512 at UNC Chapel Hill for the Fall 2021 Semester. 
